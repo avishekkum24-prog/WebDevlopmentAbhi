@@ -32,4 +32,4 @@ This project was created for frontend web development practice by recreating the
 
 ## 👨‍💻 Author
 
-Krishna Yadav
+Avishek kumar
